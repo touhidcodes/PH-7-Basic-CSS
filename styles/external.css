@@ -1,0 +1,10 @@
+.blog{
+    background-color: rgb(255, 255, 175);
+    border: 2px solid rgb(3, 0, 0);
+    border-radius: 5px;
+    margin: 50px;
+    padding: 10px;
+}
+h2{
+    color: red;
+}
