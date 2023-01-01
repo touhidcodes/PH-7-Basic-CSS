@@ -17,3 +17,9 @@ background-blend-mode: multiply;
 h2{
     color: red;
 }
+#none{
+    /* display: none; */
+}
+span{
+    border: 1px solid red;
+}
